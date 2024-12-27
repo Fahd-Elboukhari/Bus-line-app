@@ -1,0 +1,1 @@
+The app is still a work in progress, with additional features yet to be added. In the future, I plan to include detailed stop information for each bus line, allowing users to see all the stops along a route. Maps for each line will also be integrated, giving users a clearer view of the routes and helping them navigate more efficiently.
